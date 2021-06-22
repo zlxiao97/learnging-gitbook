@@ -1,0 +1,11 @@
+{
+    "bookname": "test",
+    "description": "test",
+    "keywords": [
+        "gitbook",
+        "summary",
+        "nodejs",
+        "自出版平台"
+    ],
+    "license": "MIT"
+}
